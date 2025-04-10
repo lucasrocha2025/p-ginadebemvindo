@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obrigado pela Compra!</title>
+  <style>
+    body {
+      background: #fff8e1;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      padding: 40px;
+      text-align: center;
+      max-width: 600px;
+    }
+    h1 {
+      color: #f57c00;
+      font-size: 2.5em;
+    }
+    p {
+      color: #4e342e;
+      font-size: 1.2em;
+      margin-top: 20px;
+    }
+    .egg-img {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="egg-img" src="https://cdn-icons-png.flaticon.com/512/3081/3081912.png" alt="Ovo de Páscoa">
+    <h1>Obrigado pela sua compra!</h1>
+    <p>Desejamos muito sucesso com suas vendas nesta Páscoa!<br>
+    Que seus ovos de chocolate tragam alegria, sabor e muitos lucros! 🐰🍫<br><br>
+    Conte com a gente sempre que precisar. Feliz Páscoa! 💛</p>
+  </div>
+</body>
+</html>
